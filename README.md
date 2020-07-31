@@ -1,4 +1,4 @@
-# Gerenciamento de Projetos 👋
+# Gerenciamento de Projetos
 ### - Projeto usado no meu TCC
 ### Introdução :
  O projeto tem o objetivo em gerenciar dados do Excel, usando esses dados em gráficos e tabelas, exemplo um "Card" de tabela tem a função de efetuar pesquisa através da coluna seleciona.
