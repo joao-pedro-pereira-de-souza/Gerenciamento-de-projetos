@@ -6,7 +6,7 @@
 ![Tela Home]( https://github.com/joaopedro29/Gerenciamento-de-projetos/blob/master/Imagens/TelaIndex.PNG)
 
 
-## Tela Editor + Card para Gráficos
+## Tela Editor + Card de gráfico 
 
 
 
@@ -18,7 +18,7 @@
 
 ### Problema encontrado :
 
--Modifirar as cores da Scrollbar :
+-Modificar as cores da Scrollbar :
 
 como as cores do projeto são diferentes das cores padrão do c#, o design das telas são "prejudicadas".Cores desejáveis :
 
